@@ -160,7 +160,7 @@ function generatePassword(){
   password=password.join("");
   password = password.toString();
   console.log(password);
-prompt("This is your password: " + password);
+  alert("This is your password: " + password);
 }
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
