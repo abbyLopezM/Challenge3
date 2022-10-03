@@ -17,13 +17,13 @@ Since this project is not necessarily software based then it is not needed to be
 
 ## Usage
 
-![Landing Page](assets/Landing%20Page.png)
-![Password Length Selection](assets/Length%20Question.png)
-![Criteria Q1](assets/Criteria%20Q1.png)
-![Criteria Q2](assets/Criteria%20Q2.png)
-![Criteria Q3](assets/Criteria%20Q3.png)
-![Criteria Q4](assets/Criteria%20Q4.png)
-![Your Password](assets/Display%20Password.png)
+![Landing Page](/assets/images/Landing%20Page.png)
+![Password Length Selection](./assets/images/Length%20Question.png)
+![Criteria Q1](./assets/images/Criteria%20Q1.png)
+![Criteria Q2](./assets/images/Criteria%20Q2.png)
+![Criteria Q3](./assets/images/Criteria%20Q3.png)
+![Criteria Q4](./assets/images/Criteria%20Q4.png)
+![Your Password](./assets/images/Display%20Password.png)
 
 
 ## Credits
